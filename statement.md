@@ -1,0 +1,9 @@
+main.py
+input_handler.py
+score_calculator.py
+pattern_analyzer.py
+consistency_analyzer.py
+insight_generator.py
+report_generator.py
+sample_data.txt
+statement.md

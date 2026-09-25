@@ -1,0 +1,38 @@
+PATTERNPULSE SAMPLE DATA
+
+Use the following values to test the program manually.
+
+Day 1
+Study Hours: 3
+Sleep Hours: 6
+Tasks Completed: 3
+Workout: Yes
+Mood: 3
+
+Day 2
+Study Hours: 4
+Sleep Hours: 7
+Tasks Completed: 4
+Workout: Yes
+Mood: 4
+
+Day 3
+Study Hours: 5
+Sleep Hours: 8
+Tasks Completed: 6
+Workout: Yes
+Mood: 5
+
+Day 4
+Study Hours: 4
+Sleep Hours: 7
+Tasks Completed: 5
+Workout: No
+Mood: 4
+
+Day 5
+Study Hours: 6
+Sleep Hours: 8
+Tasks Completed: 7
+Workout: Yes
+Mood: 5
